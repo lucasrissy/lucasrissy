@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasrissy
 - 👀 I’m interested in  aprender novas tecnoligias
-- 🌱 I’m currently learning  python
+- 🌱 I’m currently learning  Java/Android Studio
 - 💞️ I’m looking to collaborate on  minha carreira
 - 📫 How to reach me  é pelo email: lucasrissi01@gmail.com
 
