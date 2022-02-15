@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @lucasrissy
-- 👀 I’m interested in  aprender novas tecnoligias
-- 🌱 I’m currently learning  Java/Android Studio
-- 💞️ I’m looking to collaborate on  minha carreira
-- 📫 How to reach me  é pelo email: lucasrissi01@gmail.com
-
+-Olá Meu nome é Lucas e sou aluno do curso de desenvolvimento web da awari!!
 <!---
 lucasrissy/lucasrissy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
